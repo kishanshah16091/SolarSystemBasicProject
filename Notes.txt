@@ -2,4 +2,10 @@ Branches
 
 Project
 
-1. Deploy the solar system
+1. Deploy the solar system with basic feature as soon as possible
+2. Develop the feature of sun in the solar system and deploy
+
+
+To merge a branch
+
+Step 1: switch to branch to which you want to merge
